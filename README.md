@@ -2,4 +2,4 @@
 Mock MVC base on asp.net
 
 # 体会
-https://arthars.gitbooks.io/own-asp-net-mvc-base-on-asp-net/
+http://www.cnblogs.com/Angle-Louis/p/8744830.html
